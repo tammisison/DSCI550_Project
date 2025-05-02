@@ -1,0 +1,38 @@
+[
+  {
+    "event_type":"Unknown",
+    "count":6853
+  },
+  {
+    "event_type":"Paranormal & Supernatural Deaths",
+    "count":3657
+  },
+  {
+    "event_type":"Accidents & Natural Disasters",
+    "count":3066
+  },
+  {
+    "event_type":"Suicide & Tragic Deaths",
+    "count":2919
+  },
+  {
+    "event_type":"Unsolved & Mysterious Events",
+    "count":2902
+  },
+  {
+    "event_type":"Unnatural & Suspicious Deaths",
+    "count":594
+  },
+  {
+    "event_type":"Violent Deaths",
+    "count":545
+  },
+  {
+    "event_type":"Execution & Historical Deaths",
+    "count":351
+  },
+  {
+    "event_type":"Torture & Extreme Crimes",
+    "count":152
+  }
+]

@@ -1,0 +1,90 @@
+city
+country
+description
+location
+state
+state_abbrev
+longitude
+latitude
+city_longitude
+city_latitude
+audio_evidence
+visual_evidence
+apparition_type
+event_type
+time_of_day
+hp_day
+witness_count
+year
+quarter
+binge drinking (%)
+median drinks per binge
+top 25% median drinks per binge
+median binges monthly
+top 25% monthly binges
+annual deaths (excessive alcohol)
+death rate increase (%)
+death rate per capita
+male death percentage
+chronic death percentage
+adult_35plus death percentage
+under 21 death percentage
+years of potential life lost
+taxpayer cost
+inflation adjusted cost
+cost per drink (in 2022 us$)
+city_x
+geography_type
+resident_population
+percent_change_in_resident_population
+resident_population_density
+resident_population_density_rank
+number_of_representatives
+change_in_number_of_representatives
+average_apportionment_population_per_representative
+personal theft/larceny
+robbery
+simple assault
+aggravated assault
+rape/sexual assault
+longitude_x
+latitude_x
+city_sunrise
+city_sunset
+latitude_y
+longitude_y
+curphase
+fracillum
+moonrise
+moon_upper_transit
+moonset
+sunrise
+sun_upper_transit
+sunset
+begin_civil_twilight
+end_civil_twilight
+timezone
+state_x
+state_y
+usgs_region
+number_of_tribes
+state.1
+percentage_of_total_tribes
+GeoTopicName_1
+GeoTopicLat_1
+GeoTopicLng_1
+GeoTopicName_2
+GeoTopicLat_2
+GeoTopicLng_2
+GeoTopicName_3
+GeoTopicLat_3
+GeoTopicLng_3
+image_path
+best_caption
+caption_options
+top_class
+top_confidence
+all_class_predictions
+entities
+entity_labels
+entity_counts

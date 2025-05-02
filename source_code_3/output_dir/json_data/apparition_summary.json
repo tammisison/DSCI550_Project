@@ -1,0 +1,34 @@
+[
+  {
+    "apparition_type":"Ghost",
+    "count":6904
+  },
+  {
+    "apparition_type":"Unknown",
+    "count":6259
+  },
+  {
+    "apparition_type":"Demonic Entity",
+    "count":2918
+  },
+  {
+    "apparition_type":"Misty Figure",
+    "count":1830
+  },
+  {
+    "apparition_type":"Spirit",
+    "count":1586
+  },
+  {
+    "apparition_type":"Extraterrestrial",
+    "count":783
+  },
+  {
+    "apparition_type":"Celestial Being",
+    "count":420
+  },
+  {
+    "apparition_type":"Mythological Creature",
+    "count":72
+  }
+]

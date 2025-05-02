@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  solr:
+    image: solr:latest
+    ports:
+      - "8983:8983"
+    volumes:
+      - solr_data:/var/solr
+    command:
+      - solr-precreate
+      - haunted_places
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+
+volumes:
+  solr_data:
+  es_data:
